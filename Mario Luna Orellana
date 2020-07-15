@@ -1,0 +1,7 @@
+echo "# Master" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/kayzero2710/Master.git
+git push -u origin master
+                
